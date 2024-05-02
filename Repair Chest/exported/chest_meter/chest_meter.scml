@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="0">
+        <file id="0" name="0/chest_meter0.png" width="27" height="74" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="1" name="1">
+        <file id="0" name="1/chest_meter1.png" width="26" height="77" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="10/chest_meter10.png" width="25" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="2" name="2">
+        <file id="0" name="2/chest_meter2.png" width="27" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="3" name="3">
+        <file id="0" name="3/chest_meter3.png" width="27" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="4" name="4">
+        <file id="0" name="4/chest_meter4.png" width="27" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="5" name="5">
+        <file id="0" name="5/chest_meter5.png" width="27" height="74" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="6" name="6">
+        <file id="0" name="6/chest_meter6.png" width="25" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="7" name="7">
+        <file id="0" name="7/cheset_meter7.png" width="27" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="8" name="8">
+        <file id="0" name="8/chest_meter8.png" width="25" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <folder id="9" name="9">
+        <file id="0" name="9/chest_meter9.png" width="25" height="75" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="chest_meter">
+        <animation id="0" name="0" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter0" folder="0" file="0" abs_x="0" abs_y="1" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter0">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="1" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter1" folder="1" file="0" abs_x="0" abs_y="-1" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter1">
+                <key id="0" spin="0">
+                    <object folder="1" file="0" y="-1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="2" name="2" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter2" folder="2" file="0" abs_x="1" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter2">
+                <key id="0" spin="0">
+                    <object folder="2" file="0" x="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="3" name="3" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter3" folder="3" file="0" abs_x="0" abs_y="-1" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter3">
+                <key id="0" spin="0">
+                    <object folder="3" file="0" y="-1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="4" name="4" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter4" folder="4" file="0" abs_x="0" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter4">
+                <key id="0" spin="0">
+                    <object folder="4" file="0" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="5" name="5" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter5" folder="5" file="0" abs_x="-1" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter5">
+                <key id="0" spin="0">
+                    <object folder="5" file="0" x="-1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="6" name="6" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter6" folder="6" file="0" abs_x="0" abs_y="2" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter6">
+                <key id="0" spin="0">
+                    <object folder="6" file="0" y="2" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="7" name="7" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="cheset_meter7" folder="7" file="0" abs_x="0" abs_y="1" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="cheset_meter7">
+                <key id="0" spin="0">
+                    <object folder="7" file="0" y="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="8" name="8" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter8" folder="8" file="0" abs_x="0" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter8">
+                <key id="0" spin="0">
+                    <object folder="8" file="0" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="9" name="9" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter9" folder="9" file="0" abs_x="1" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter9">
+                <key id="0" spin="0">
+                    <object folder="9" file="0" x="1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="10" name="10" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="chest_meter10" folder="1" file="1" abs_x="-1" abs_y="0" abs_pivot_x="0" abs_pivot_y="1" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="chest_meter10">
+                <key id="0" spin="0">
+                    <object folder="1" file="1" x="-1" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
